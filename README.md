@@ -7,7 +7,11 @@ Project Name: GitHub API Testing
 * Testing Type:
 
   _Functional API testing_
+  
   _Status code validation_
-  _Response body validatio_n
+  
+  _Response body validation_
+  
   _Negative testing_
+  
   _Authorization testing_
