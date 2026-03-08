@@ -6,8 +6,8 @@ Project Name: GitHub API Testing
 * API: GitHub REST API
 * Testing Type:
 
-Functional API testing
-Status code validation
-Response body validation
-Negative testing
-Authorization testing
+  _Functional API testing
+  _Status code validation
+  _Response body validation
+  _Negative testing
+  _Authorization testing
